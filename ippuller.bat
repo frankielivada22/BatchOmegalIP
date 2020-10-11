@@ -4,7 +4,7 @@ cls
 
 color a
 echo:
-set /p tshark="Enter tshark derectory (Eg. -->> E:\Program Files\Wireshark): "
+set /p tshark="Enter tshark derectory (Eg. -->> C:\Program Files\Wireshark): "
 echo Directory set to %tshark%
 echo:
 set /p interface="Whats your network interface (Ethernet (E), wi-fi (W), etc): "
